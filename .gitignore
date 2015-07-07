@@ -1,0 +1,8 @@
+.DS_Store
+config.js
+node_modules/*
+config.py
+config.php
+*.pyc
+log
+*.swp
